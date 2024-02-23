@@ -28,7 +28,7 @@ function playRound(playerSelection, computerSelection) {
 function inputValidation() {
   let selection = prompt(`Input your choice! "Rock" "Paper" "Scissors"`);
   if (selection === null) {
-    console.log("User canceled the game. 🥲");
+    console.log("User canceled the game 🥲");
     console.log("Refresh the page to start a new game");
     return null;
   }
@@ -54,10 +54,6 @@ function game() {
     console.log(`** Round ${i + 1} **`);
     const playerSelection = inputValidation();
 
-    if (playerSelection === null) {
-      console.log("Game canceled.");
-      return;
-    }
     const computerSelection = computerPlay();
     console.log(
       `Your choice is ${playerSelection} and computer\'s choice is ${computerSelection}`
