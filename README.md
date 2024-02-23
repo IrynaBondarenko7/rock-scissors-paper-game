@@ -16,7 +16,7 @@ for that. Good luck, muuuuahhahhahahahahahahhahaahahahha!
 
 Welcome to RPS GAME This repository give you the chance to beat our bad AI who wants to dominate the world!
 
-Click [here]() and then open the console.
+Click [here](https://irynabondarenko7.github.io/rock-scissors-paper-game/) and then open the console.
 
 ### Technologies Used
 

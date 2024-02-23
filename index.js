@@ -29,6 +29,7 @@ function inputValidation() {
   let selection = prompt(`Input your choice! "Rock" "Paper" "Scissors"`);
   if (selection === null) {
     console.log("User canceled the game. 🥲");
+    console.log("Refresh the page to start a new game");
     return null;
   }
   selection = selection.toLowerCase().trim();
