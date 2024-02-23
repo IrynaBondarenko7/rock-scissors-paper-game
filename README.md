@@ -25,6 +25,6 @@ Click [here](https://irynabondarenko7.github.io/rock-scissors-paper-game/) and t
 
 ### Usage
 
-To open the console, use the key combination Ctrl + Shift + J (Windows / Linux) або Cmd + Option + J (Mac).
+To open the console, use the key combination Ctrl + Shift + J (Windows / Linux) or Cmd + Option + J (Mac).
 
 Thank you!
